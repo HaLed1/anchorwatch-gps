@@ -1,0 +1,1 @@
+{"metadata":{"format":"anchorwatch_gps_log_v1","source":"live_gps","recorded_at":"2026-06-10T15:31:03.943877Z","chain_length_m":40.0,"water_depth_m":5.0,"fix_count":1},"samples":[{"timestamp_s":1781105457.237,"latitude":43.3258829,"longitude":-1.9717982,"accuracy_m":13.255000114440918,"anchored":true,"rode_length_m":40.0,"water_depth_m":5.0}]}
